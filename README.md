@@ -150,7 +150,21 @@ NEXT_PUBLIC_WHATSAPP_NUMBER=+1234567890
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+ 5. Open a Pull Request
+
+## 📚 Documentation
+
+Comprehensive documentation is available in the `/docs` directory:
+
+- [Architecture Overview](docs/architecture.md) - System architecture and design decisions
+- [Component Documentation](docs/components.md) - React component reference
+- [API Reference](docs/api-reference.md) - API endpoints and usage
+- [Deployment Guide](docs/deployment.md) - Full deployment instructions
+- [Environment Variables](docs/environment-variables.md) - Configuration reference
+- [Database Schema](docs/database.md) - JSON database structure
+- [Contributing Guidelines](docs/contributing.md) - How to contribute to the project
+
+For local development, see the [Quick Start](#-getting-started) section.
 
 ## 📄 License
 
